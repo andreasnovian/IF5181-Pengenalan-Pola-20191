@@ -1,7 +1,0 @@
-Berikut urutan pengerjaannya: bisa dimulai dari RNN basic --> handson --> tugas mandiri --> NLP --> basic stock market --> stock market prediction --> tugas mandiri dgn dataset baru
-
-Setelah latihan mandiri RNN for NLP, maka berikutnya adalah latihan mandiri untuk stock market prediction dengan mendownload data yang lain dari internet
-
-data stock tersebut misalkan Hongkong Stock Market: https://finance.yahoo.com/quote/%5EHSI?ltr=1
-
-dan Nikkei https://finance.yahoo.com/quote/%5EN225?ltr=1&guccounter=1&guce_referrer=aHR0cHM6Ly9jb25zZW50LnlhaG9vLmNvbS8&guce_referrer_sig=AQAAAI6x-rUdpVo7CbBGNmKVk5sbA3NrwY6eUT0T0E48WLtLHlkRl3Zlp01KuNmDqTl0HPkvrkdF6cbM5APrh1KGuZVuhfH3OylCIwqZXlYIlxpBShky8tE7NDR8bwh-9D7J4yT60xRdafBDjVKH-U3uydZpHMi2uHmH1K6c-ZfmM5rj
